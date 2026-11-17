@@ -1,0 +1,1 @@
+The source code is organized in src/. This placeholder is not used.
